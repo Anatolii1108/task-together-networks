@@ -1,0 +1,16 @@
+{
+    "name": "scripapa/task-together-networks",
+    "description": "Task for Together Networks company",
+    "license": "top-secret",
+    "authors": [
+        {
+            "name": "Anatolii",
+            "email": "anatolii.zakabluk@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "symfony/console": "^4.3"
+    }
+}
